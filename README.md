@@ -1,5 +1,7 @@
 RPG Game
-
+-----
+Created as part of CodeCademy Javascript course.
+-----
 Description:
 A simple role-playing game built with HTML, CSS, and JavaScript. This project showcases basic game mechanics like player interaction, combat, and a simple user interface.
 
